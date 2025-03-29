@@ -8,7 +8,7 @@ conda create -n interview python=3.10 -y
 
 2. Activate environment
 ```bash
- conda activate interview
+ conda activate llmopstradingbot
  ```
 
 3. Intall Requirements
